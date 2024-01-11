@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iDAMZY
-- 👀 I’m interested in Full stack development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on various frontend and backend projects
 - 📫 How to reach me isaacope066@gmail.com
